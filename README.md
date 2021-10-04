@@ -1,4 +1,4 @@
-# VBA of Wallstreet: an analysis of the trading history of green energy stocks in 2017 and 2018
+# VBA of Wallstreet: 2017 and 2018 Green Energy Stock Trading Analysis
 
 ## Overview of Project
 Steve is a finance professional interested in analyzing green energy stocks for his parents. He likes the spreadsheet tools I have built for him thus far, yet seeks to expand the tool for a wider market. The current code is inefficient and would not process a larger data set in a timely manner. The current code must be refactored to become more efficient. 
